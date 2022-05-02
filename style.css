@@ -29,7 +29,7 @@ section {
 hr {
     border: none;
     border-top: 10px dotted #808080;
-    align: center;
+    position: center;
     width: 10%;
 }
 
@@ -117,7 +117,7 @@ hr {
 
 h2 {
     width: 100%;
-    align: left;
+    position: left;
     font-size: 1.8rem;
     color: blue;
     font-weight: 600;
